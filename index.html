@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="tr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Belge Asistanı</title>
+<style>
+ body{font-family:system-ui,sans-serif;max-width:760px;margin:40px auto;padding:0 16px}
+ #log div{margin:12px 0;padding:12px;border-radius:8px}
+ .k{background:#e8f0fe}.b{background:#f4f4f4;white-space:pre-wrap}
+ .src{font-size:12px;color:#666;margin-top:6px}
+ form{display:flex;gap:8px}input{flex:1;padding:10px}
+</style></head><body>
+<h2>Belge Asistanı</h2>
+<div id="log"></div>
+<form id="f"><input id="q" placeholder="Sorunuzu yazın..." autocomplete="off">
+<button>Sor</button></form>
+<script>
+const log=document.getElementById('log');
+function ekle(cls,txt){const d=document.createElement('div');d.className=cls;d.textContent=txt;log.appendChild(d);return d;}
+document.getElementById('f').onsubmit=async e=>{
+  e.preventDefault();const q=document.getElementById('q');const soru=q.value.trim();if(!soru)return;
+  ekle('k',soru);q.value='';const d=ekle('b','Düşünüyor...');
+  const r=await fetch('/sor',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({soru})});
+  const j=await r.json();d.textContent=j.cevap;
+  if(j.kaynaklar.length){const s=document.createElement('div');s.className='src';
+    s.textContent='Kaynaklar: '+j.kaynaklar.map(k=>`[${k.no}] ${k.dosya} s.${k.sayfa}`).join(' · ');d.appendChild(s);}
+};
+</script></body></html>
