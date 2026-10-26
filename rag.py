@@ -37,6 +37,6 @@ def yanitla(soru: str, akis: bool = False):
         messages=mesajlar,
         stream=akis,
         think=False,
-        options={"temperature": 0.2, "num_ctx": 8192},
+        options={"temperature": 0.2, "num_ctx": 8192, "num_thread": 3},
     )
     return yanit, parcalar
