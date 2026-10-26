@@ -1,0 +1,388 @@
+[
+  {
+    "id": "S01",
+    "soru": "2025 yılı 1416 bursları başvuruları hangi tarihler arasında yapılıyor?",
+    "beklenen_yanit": "19-30 Aralık 2025; başvurular 30 Aralık saat 17.00'de sona erer.",
+    "kaynak": [
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf"
+    ],
+    "sayfa": 7,
+    "anahtar_kelimeler": [
+      "19",
+      "30 aralık"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S02",
+    "soru": "1416 bursu başvuru ücreti ne kadar?",
+    "beklenen_yanit": "580 TL.",
+    "kaynak": [
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf"
+    ],
+    "sayfa": 7,
+    "anahtar_kelimeler": [
+      "580"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S03",
+    "soru": "Başvuru için ALES puanı en az kaç olmalı?",
+    "beklenen_yanit": "Tercih edilen alanın puan türünde en az 75.",
+    "kaynak": [
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf",
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf"
+    ],
+    "sayfa": 7,
+    "anahtar_kelimeler": [
+      "75"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S04",
+    "soru": "Lisans not ortalaması şartı nedir?",
+    "beklenen_yanit": "4 üzerinden en az 2.50 veya 100 üzerinden en az 65.",
+    "kaynak": [
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf",
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf"
+    ],
+    "sayfa": 7,
+    "anahtar_kelimeler": [
+      "2.50|2,50",
+      "65"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S05",
+    "soru": "Yerleştirme puanı nasıl hesaplanır ve kaç puan başarılı sayılır?",
+    "beklenen_yanit": "ALES %40 + sözlü sınav %40 + lisans notu %20; 70 ve üzeri başarılı.",
+    "kaynak": [
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf",
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf"
+    ],
+    "sayfa": 10,
+    "anahtar_kelimeler": [
+      "sözlü",
+      "70"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S06",
+    "soru": "Sözlü sınava kontenjanın kaç katı aday çağrılır?",
+    "beklenen_yanit": "En fazla 3 katı.",
+    "kaynak": [
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf",
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf"
+    ],
+    "sayfa": 9,
+    "anahtar_kelimeler": [
+      "3|üç"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S07",
+    "soru": "Sözlü sınav sonucuna itiraz süresi ve ücreti nedir?",
+    "beklenen_yanit": "Sonuçları izleyen 5 iş günü; 50 TL itiraz ücreti.",
+    "kaynak": [
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf",
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf"
+    ],
+    "sayfa": 10,
+    "anahtar_kelimeler": [
+      "5|beş",
+      "50"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S08",
+    "soru": "Sadece doktora yapılacak alanlara başvurmak için hangi yıl veya sonrasında doğmuş olmak gerekir?",
+    "beklenen_yanit": "1992 ve sonrası (YL ve YL+doktora alanları için 1995).",
+    "kaynak": [
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf"
+    ],
+    "sayfa": 7,
+    "anahtar_kelimeler": [
+      "1992"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S09",
+    "soru": "Milli Savunma Üniversitesi adına kaç kişilik kontenjan var?",
+    "beklenen_yanit": "32.",
+    "kaynak": [
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf"
+    ],
+    "sayfa": 4,
+    "anahtar_kelimeler": [
+      "32"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S10",
+    "soru": "Esas öğrenim görülecek üniversitenin sıralama şartı nedir?",
+    "beklenen_yanit": "THE, Shanghai veya QS alan bazlı sıralamalarında son 3 yılda %60'lık dilim (BOTAŞ ve BOTAŞ BIL için %30).",
+    "kaynak": [
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf"
+    ],
+    "sayfa": 13,
+    "anahtar_kelimeler": [
+      "60"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S11",
+    "soru": "Yurt dışında yüksek lisans ve doktora için öğrenim süresi en fazla kaç yıldır?",
+    "beklenen_yanit": "Yüksek lisans en fazla 2 yıl, doktora en fazla 4 yıl.",
+    "kaynak": [
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf"
+    ],
+    "sayfa": 5,
+    "anahtar_kelimeler": [
+      "2|iki",
+      "4|dört"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S12",
+    "soru": "Doktora öğrenim süresi ne kadar uzatılabilir?",
+    "beklenen_yanit": "Bir yıla kadar burslu, bir yıla kadar burssuz.",
+    "kaynak": [
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf"
+    ],
+    "sayfa": 5,
+    "anahtar_kelimeler": [
+      "burslu",
+      "burssuz"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S13",
+    "soru": "Yurt dışında öğrenim görenlerin mecburi hizmet süresi nasıl hesaplanır?",
+    "beklenen_yanit": "Okul ve/veya aylık burs ödemesi yapılan öğrenim süresinin iki katı.",
+    "kaynak": [
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf",
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf",
+      "1416_yurt_disinda_ogrenim_gorecek_ogrencilere_yapilacak_odemeler_hakkinda_teblig.pdf"
+    ],
+    "sayfa": 12,
+    "anahtar_kelimeler": [
+      "iki katı|2 katı"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S14",
+    "soru": "Kadın öğrencilere doğum için ne kadar burslu izin verilir?",
+    "beklenen_yanit": "Doğumdan önce 8, sonra 8 hafta olmak üzere toplam 16 haftaya kadar.",
+    "kaynak": [
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf"
+    ],
+    "sayfa": 8,
+    "anahtar_kelimeler": [
+      "16|on altı"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S15",
+    "soru": "Öğrenimini tamamlayan öğrenci kaç ay içinde yurda dönüp görev talep etmelidir?",
+    "beklenen_yanit": "En geç iki ay içinde.",
+    "kaynak": [
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf",
+      "1416_sayili_ecnebi_memleketlere_gonderilecek_talebe_hakkinda_kanun.pdf"
+    ],
+    "sayfa": 11,
+    "anahtar_kelimeler": [
+      "iki ay|2 ay"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S16",
+    "soru": "Resmî burslu lisansüstü öğrencilere yurt içinde ödenen aylık burs ne kadar?",
+    "beklenen_yanit": "8.000 TL (lisans için 4.000 TL).",
+    "kaynak": [
+      "1416_yurt_disinda_ogrenim_gorecek_ogrencilere_yapilacak_odemeler_hakkinda_teblig.pdf"
+    ],
+    "sayfa": 2,
+    "anahtar_kelimeler": [
+      "8.000|8000"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S17",
+    "soru": "Kitap ve kırtasiye için ek ödenek ne kadar?",
+    "beklenen_yanit": "Her ay aylık burs tutarının on ikide biri.",
+    "kaynak": [
+      "1416_yurt_disinda_ogrenim_gorecek_ogrencilere_yapilacak_odemeler_hakkinda_teblig.pdf"
+    ],
+    "sayfa": 3,
+    "anahtar_kelimeler": [
+      "on ikide|1/12"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S18",
+    "soru": "Zorunlu sağlık sigortası için ödenebilecek üst sınır nedir?",
+    "beklenen_yanit": "Her eğitim-öğretim yılı için bir aylık yurt dışı bursunun 2 katını aşamaz.",
+    "kaynak": [
+      "1416_yurt_disinda_ogrenim_gorecek_ogrencilere_yapilacak_odemeler_hakkinda_teblig.pdf"
+    ],
+    "sayfa": 5,
+    "anahtar_kelimeler": [
+      "2 katı|iki katı"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S19",
+    "soru": "Yapılan harcamaların iadesi en geç ne zaman talep edilmeli?",
+    "beklenen_yanit": "Harcama tarihinden itibaren en geç altı ay içinde.",
+    "kaynak": [
+      "1416_yurt_disinda_ogrenim_gorecek_ogrencilere_yapilacak_odemeler_hakkinda_teblig.pdf"
+    ],
+    "sayfa": 7,
+    "anahtar_kelimeler": [
+      "altı ay|6 ay"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S20",
+    "soru": "Almanya'da lisansüstü öğrenim gören resmî burslu öğrencinin aylık bursu ne kadar?",
+    "beklenen_yanit": "1.840 Euro (lisans: 1.650 Euro).",
+    "kaynak": [
+      "ek1_burs_tutarlari.pdf"
+    ],
+    "sayfa": 1,
+    "anahtar_kelimeler": [
+      "1.840|1840"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S21",
+    "soru": "ABD'de lisansüstü öğrencinin aylık bursu ne kadar?",
+    "beklenen_yanit": "2.240 ABD doları (lisans: 2.010).",
+    "kaynak": [
+      "ek1_burs_tutarlari.pdf"
+    ],
+    "sayfa": 2,
+    "anahtar_kelimeler": [
+      "2.240|2240"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S22",
+    "soru": "Yurt içi dil kursunda toplam öğrenim süresi ne kadardır?",
+    "beklenen_yanit": "12 ay.",
+    "kaynak": [
+      "1416_sayili_kanun_kapsaminda_yabanci_dil_ogrenimine_iliskin_usul_ve_esaslar.pdf",
+      "2025_yili_1416_burslari_basvuru_ve_tercih_kilavuzu.pdf"
+    ],
+    "sayfa": 2,
+    "anahtar_kelimeler": [
+      "12|on iki"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S23",
+    "soru": "Yurt içi dil kursunda devamsızlık sınırı nedir?",
+    "beklenen_yanit": "Aylık ders saati toplamının %15'i.",
+    "kaynak": [
+      "1416_sayili_kanun_kapsaminda_yabanci_dil_ogrenimine_iliskin_usul_ve_esaslar.pdf"
+    ],
+    "sayfa": 2,
+    "anahtar_kelimeler": [
+      "15"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S24",
+    "soru": "Doktora sonrası araştırma izni için başvuru ne zamana kadar yapılmalı?",
+    "beklenen_yanit": "Mezuniyet tarihinden itibaren en geç bir ay içinde.",
+    "kaynak": [
+      "1416_kapsaminda_doktora_sonrasi_arastirma_iznine_iliskin_usul_ve_esaslar.pdf",
+      "turk_ogrencilerin_yabanci_ulkelerde_ogrenimleri_hakkinda_yonetmelik.pdf"
+    ],
+    "sayfa": 1,
+    "anahtar_kelimeler": [
+      "bir ay|1 ay"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "S25",
+    "soru": "Doktora sonrası araştırma yapılacak üniversitenin sıralama şartı nedir?",
+    "beklenen_yanit": "Son üç yılda THE, Shanghai veya QS alan bazlı sıralamalarından birinde %30'luk dilim.",
+    "kaynak": [
+      "1416_kapsaminda_doktora_sonrasi_arastirma_iznine_iliskin_usul_ve_esaslar.pdf"
+    ],
+    "sayfa": 1,
+    "anahtar_kelimeler": [
+      "30"
+    ],
+    "belgede_var": true
+  },
+  {
+    "id": "D01",
+    "soru": "Fulbright bursuna başvuru tarihleri nelerdir?",
+    "beklenen_yanit": "Bu sorunun yanıtı belgelerde bulunmuyor.",
+    "kaynak": [],
+    "sayfa": null,
+    "anahtar_kelimeler": [],
+    "belgede_var": false
+  },
+  {
+    "id": "D02",
+    "soru": "Erasmus hibesi aylık ne kadar?",
+    "beklenen_yanit": "Bu sorunun yanıtı belgelerde bulunmuyor.",
+    "kaynak": [],
+    "sayfa": null,
+    "anahtar_kelimeler": [],
+    "belgede_var": false
+  },
+  {
+    "id": "D03",
+    "soru": "2026 yılı 1416 bursu başvuruları ne zaman?",
+    "beklenen_yanit": "Bu sorunun yanıtı belgelerde bulunmuyor.",
+    "kaynak": [],
+    "sayfa": null,
+    "anahtar_kelimeler": [],
+    "belgede_var": false
+  },
+  {
+    "id": "D04",
+    "soru": "KYK bursu ne kadar?",
+    "beklenen_yanit": "Bu sorunun yanıtı belgelerde bulunmuyor.",
+    "kaynak": [],
+    "sayfa": null,
+    "anahtar_kelimeler": [],
+    "belgede_var": false
+  },
+  {
+    "id": "D05",
+    "soru": "Türkiye'nin başkenti neresidir?",
+    "beklenen_yanit": "Bu sorunun yanıtı belgelerde bulunmuyor.",
+    "kaynak": [],
+    "sayfa": null,
+    "anahtar_kelimeler": [],
+    "belgede_var": false
+  }
+]
